@@ -1,4 +1,4 @@
-# Ollama Code Reviewer
+# AI Code Context Reviewer
 
 A local, AI-powered CLI application that reviews your uncommitted or staged Git changes using Ollama. It catches bugs, security flaws, and severe anti-patterns directly from your terminal.
 
